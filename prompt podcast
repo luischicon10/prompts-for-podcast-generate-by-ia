@@ -1,0 +1,58 @@
+# Projeto Podcast Gerado por I.A.s
+
+
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma aula da [DIO](https://dio.me)
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [Leonardo.ai](https://leonardo.ai/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+
+## ✨ Como foi feito ?
+
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Leonardo.ai Para gerar capas
+- Capcut para tratar aúdio e adicionar sons de fundo
+
+
+## 🛠️ Instruções de execução
+
+Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
+- 🤖 1. Use os prompts de roteiro no `chagpt`
+"Você é um roteirista de podcast e vamos criar um podcast de finanças focado em micro empresas individuais (MEI) e eu gostaria de uma ajuda sua para criar, colocar cinco sugestões, com nomes populares do dia a dia do brasileiro, e que tenha duplo sentido de entendimento. O nome deve ser enxuto, contendo um nome e subtítulo."
+"Você é um roteirista de podcast e vamos criar um roteiro de um podcast de finanças focado em micro empreendedores individuas (MEI), cujo nome é Balanço simples - "Direcionando Suas Finanças como MEI" e tem o foco em micro empreendedores individuas. 
+Introdução: substitua por um por uma introdução iguais as introduções dos vídeos do canal "economista sincero", como se fossem escritas pelo Charlão, que é o apresentador do canal "economista sincero"
+Curiosidades 1: substitua sempre por uma curiosidade de faturamento anual
+Curiosidades 2: substitua sobre uma vantagem em ser MEI
+Finalização: substitua por uma despedida formal ali com um final. Eu sou o Chicon e esse foi o Balanço simples - "Direcionando Suas Finanças como MEI" dessa noite
+Use termos fáceis de explicação.
+O podcast deve ser apresentado somente para uma pessoa, no caso aqui chamado Chicon, e o podcast deve ser curto.
+Não ultrapasse 5 minutos de duração."
+
+- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+[Introdução]
+"Fala, galera! Aqui quem fala é o Chicon, e hoje vamos direto ao ponto, porque não tem enrolação nesse podcast. Se você é MEI ou quer se tornar um, já sabe que a gestão financeira é o coração do negócio. Então, bora simplificar esse assunto que parece complicado, mas é mais fácil do que você imagina abrir o cinto, que o papo vai ser rápido, direto e cheio de informações que fazem a diferença!"
+________________________________________
+[Bloco 1: Curiosidade sobre faturamento anual]
+"Você sabia que o MEI pode ter uma faturamento anual de R$ 81.000,00 o que gera o valor mensal de R$ 6.750,00 para emissão de notas fiscais ou de serviços
+________________________________________
+[Bloco 2: Vantagem em ser MEI]
+"Agora, olha só essa vantagem: como MEI, você tem direito a benefícios como aposentadoria por idade, auxílio-doença e até salário-maternidade, desde que se beneficie em dia com suas contribuições. Ou seja, você não só empreende, mas também garante proteção para você e sua família. 
+________________________________________
+[Finalização]
+"Então é isso, galera! Mantenham os pés no chão, as contas organizadas e nunca parem de aprender. Eu sou o Chicon, e esse foi o Balanço Simples - Direcionando Suas Finanças como MEI dessa noite. Até a próxima!
+
+- 🤖 3. Use os prompts de artes no `leonardo.ai`
+"Criar uma capa estilo desenho de anime para um podcast sobre educação financeira, apresentando um homem de aproximadamente 40 anos, em traje formal, que apresente credibilidade. Com fundo de estúdio contendo o texto Balanço simples - "Direcionando Suas Finanças como MEI" que o texto seja escrito em língua portuguesa do Brasil"
+
+## 👨‍💻 Aluno
+
+⌨️ com 💜 por [Luis Chicon]
